@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GooseGamers
+- 👋 Hi, I’m Justin Stewart! Aka Goose Games
 - 👀 I’m interested in making Video Games
 
 - 📫 How to reach me: goose.gamesdev@gmail.com
